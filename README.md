@@ -1,5 +1,4 @@
-# testeBack2017
-Desafio (Back)
+# Desafio (Back)
 
 A ideia é basicamente a seguinte:
 - Vamos criar uma tabela na base de dados chamada tb_customer_account.
